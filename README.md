@@ -4,7 +4,7 @@ This project analyzes university enrollment data using Power BI.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard_photo.png)
 
 ## 📝 Description
 This dashboard shows:
